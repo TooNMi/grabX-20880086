@@ -1,0 +1,11 @@
+{
+  "name": "grabx",
+  "version": "1.0.0",
+  "description": "Simple ride hailing project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Minh Tu - 20880086",
+  "license": "ISC"
+}
